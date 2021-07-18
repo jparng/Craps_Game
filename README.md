@@ -1,1 +1,3 @@
 # Craps_Game
+
+A game where the user presses the play button to roll 2 die, and depending on the outcome the user will either win, lose, or be asked to roll again. If the user rolls a 7 or 11, the user will win. If the user rolls a 2, 3, or 12, the user will lose. If the user rolls anything else, the total rolled by the die will be added together and used as a score. The user will then be asked to roll the die again. If the user rolls and the die total is equal to the point value in the box, the user will win the game. If the user rolls a 7, they will lose the game. Any other roll requires the user to roll again until they either win or lose.
